@@ -1,0 +1,22 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "VARTA flashlight fix": {
+            "Bevel": "0.3",
+            "Bottom": "5",
+            "Cut_Thread_Percent": "20",
+            "Extra_Length": "2.5",
+            "Number_of_Ribs": "32",
+            "Ribbed": "0",
+            "Sectioned": "0",
+            "Spacing": "0.35",
+            "Thread_Length": "15",
+            "Thread_OD": "22.35",
+            "Thread_Pitch": "1.5",
+            "Wall_Thick_1": "1.2",
+            "Wall_Thick_2": "1.2",
+            "fn": "96",
+            "tol": "0.05"
+        }
+    }
+}
